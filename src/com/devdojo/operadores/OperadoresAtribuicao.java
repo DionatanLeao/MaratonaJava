@@ -1,5 +1,11 @@
 package com.devdojo.operadores;
 
+/***
+ * 
+ * @author dionatan
+ *
+ */
+
 public class OperadoresAtribuicao {
 	public static void main(String[] args) {
 		// =, -=, +=, *=, /=, %=

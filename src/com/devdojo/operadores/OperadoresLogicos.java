@@ -1,5 +1,11 @@
 package com.devdojo.operadores;
 
+/***
+ * 
+ * @author dionatan
+ *
+ */
+
 public class OperadoresLogicos {
 	public static void main(String[] args) {
 		

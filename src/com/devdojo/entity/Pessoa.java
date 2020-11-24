@@ -1,5 +1,11 @@
 package com.devdojo.entity;
 
+/***
+ * 
+ * @author dionatan
+ *
+ */
+
 public class Pessoa {
 
 	private String nome;

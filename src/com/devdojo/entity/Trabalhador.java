@@ -3,6 +3,12 @@ package com.devdojo.entity;
 import com.devdojo.entity.enums.EstadoCivil;
 import com.devdojo.entity.enums.Sexo;
 
+/***
+ * 
+ * @author dionatan
+ *
+ */
+
 public class Trabalhador {
 
 	private String nome;
