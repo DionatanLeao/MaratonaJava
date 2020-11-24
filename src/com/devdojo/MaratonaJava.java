@@ -10,7 +10,7 @@ import com.devdojo.entity.enums.Sexo;
  * @author dionatan
  *
  */
-public class PrimitiveTypes {
+public class MaratonaJava {
 	public static void main(String[] args) {
 
 		/***
