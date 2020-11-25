@@ -6,7 +6,7 @@ package com.devdojo.controlefluxo;
  *
  */
 
-public class ControleFluxo1 {
+public class ControleFluxoIfElse {
 	public static void main(String[] args) {
 		int idade = 20;
 		float salario = 2000;
