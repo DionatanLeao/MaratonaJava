@@ -14,13 +14,18 @@ public class ControleFluxoWhileDoWhileFor {
 		while (contador < 10) {
 			System.out.println(++contador);
 		}
+		
+		contador = 0;
 
 		do {
-			System.out.println("\nDentro do do while\n");
+			System.out.println("\nDentro do do while: " + contador++ + "\n");
 		} while (contador < 10);
 
 		for (int i = 0; i < 10; i++) {
 			System.out.println(i);
+			if(i == 5) {
+				break;
+			}
 		}
 	}
 }
