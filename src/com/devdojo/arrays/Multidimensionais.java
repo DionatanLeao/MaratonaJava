@@ -28,5 +28,21 @@ public class Multidimensionais {
 				System.out.println(dia);
 			}
 		}
+
+//		int[][] dias2 = new int[3][];
+//		dias[0] = new int[2];
+//		dias[1] = new int[] { 1, 2, 3 };
+//		dias[2] = new int[4];
+
+		System.out.println("----------------------");
+		
+		int[][] dias2 = {{0,0},{1,2,3},{0,0,0,0}};
+
+		for (int[] arr : dias2) {
+			for (int num : arr) {
+				System.out.println(num);
+			}
+		}
+
 	}
 }
