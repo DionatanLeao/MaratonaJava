@@ -1,4 +1,4 @@
-package br.com.devdojo.introducao.arrays;
+package br.com.devdojo.introducao;
 
 import br.com.devdojo.introducao.entity.Pessoa;
 import br.com.devdojo.introducao.entity.Trabalhador;
