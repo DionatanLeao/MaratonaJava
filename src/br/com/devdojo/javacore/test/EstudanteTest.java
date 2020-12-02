@@ -1,6 +1,6 @@
-package br.com.devdojo.introducao.classes.test;
+package br.com.devdojo.javacore.test;
 
-import br.com.devdojo.introducao.classes.Estudante;
+import br.com.devdojo.javacore.classes.Estudante;
 
 /***
  * 

@@ -1,4 +1,4 @@
-package br.com.devdojo.introducao.classes;
+package br.com.devdojo.javacore.classes;
 
 /***
  * 
